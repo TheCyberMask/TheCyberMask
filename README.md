@@ -58,7 +58,7 @@ I'm **[`Gokul Krishna K`](https://www.linkedin.com/in/gokulkrishnakrishna)**, a 
 <img src="https://img.shields.io/badge/Fortinet_Certified_Associate-red?style=for-the-badge&color=000000" alt="Fortinet Certified Associate in Cybersecurity" />
 <img src="https://img.shields.io/badge/Certified_IT_Infrastructure_&_Cyber_SOC_Analyst-blue?style=for-the-badge&color=000000" alt="Certified IT Infrastructure and Cyber SOC Analyst" />
 <img src="https://img.shields.io/badge/Certified_Cybersecurity_Educator_Professional(CCEP)-blue?style=for-the-badge&color=000000" alt="Certified Cybersecurity Educator Professional" />
-<img src="https://img.shields.io/badge/Google_Security_Operations-Fundamentals-4285F4?style=for-the-badge&logo=google&color=000000" alt="Google Security Operations Fundamentals" />
+<img src="https://img.shields.io/badge/Google_Security_Operations Fundamentals-4285F4?style=for-the-badge&logo=google&color=000000" alt="Google Security Operations Fundamentals" />
 
 </div>
 
