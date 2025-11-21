@@ -2,7 +2,7 @@
 
 I'm **[`Gokul Krishna K`](https://www.linkedin.com/in/gokulkrishnakrishna)**, a Certified SOC Analyst, Pentester, Incident Responder, Security Researcher. With Hands on experience in cybersecurity tools.
 
-<a href="https://linkedin.com/gokulkrishnakrishna"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/gokulkrishnakrishna"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 <details>
   <summary>More about me</summary>
