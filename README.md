@@ -70,6 +70,7 @@ I'm **[`Gokul Krishna K`](https://www.linkedin.com/in/gokulkrishnakrishna)**, a 
 | **Project**      | **Description**                                                                                  |
 |-------------------|--------------------------------------------------------------------------------------------------|
 | **[ssh log analysis using splunk SIEM](https://github.com/TheCyberMask/ssh-log-analysis-using-splunk/)**    | Implemented a security monitoring project focused on detecting suspicious SSH activity |
-| **[Project 2](https://github.com/)**    | Short Description |
+| **[Splunk Dashboard for Web Traffic Logs](https://github.com/)**    | A Splunk dashboard that provides a clear overview of webserver activity, including traffic volume, responses, top URLs, and client IP patterns |
+ |
 | **[Project 3](https://github.com/)**    | Short Description | 
 
