@@ -71,7 +71,7 @@ I'm **[`Gokul Krishna K`](https://www.linkedin.com/in/gokulkrishnakrishna)**, a 
 |-------------------|--------------------------------------------------------------------------------------------------|
 | **[ssh log analysis using splunk SIEM](https://github.com/TheCyberMask/ssh-log-analysis-using-splunk/)**    | Implemented a security monitoring project focused on detecting suspicious SSH activity |
 | **[Splunk Dashboard for Web Traffic Logs](https://github.com/TheCyberMask/Splunk-Dashboard-for-Web-Traffic-Logs)**    | A Splunk dashboard that provides a clear overview of webserver activity, including traffic volume, responses, top URLs, and client IP patterns |
-| **[Threat Hunting and Forensics Home Lab Using Velociraptor](https://github.com/TheCyberMask/Threat-Hunting-Home-Lab-using-Velociraptor)**    | Build a threat hunting home lab using Velociraptor to practice real-time endpoint monitoring, forensic analysis, and detection of malicious activity.|
+| **[Threat Hunting and Forensics Home Lab Using Velociraptor](https://github.com/TheCyberMask/Threat-Hunting-and-Forensics-Home-Lab-using-Velociraptor)**    | Build a threat hunting home lab using Velociraptor to practice real-time endpoint monitoring, forensic analysis, and detection of malicious activity.|
 | **[Open Source Log Management Home Lab Using Graylog](https://github.com/TheCyberMask/-Open-Source-Log-Management-Home-Lab-Using-Graylog)**    | An Open Source Log Management Home Lab using Graylog is a setup where Graylog, MongoDB, and OpenSearch are used to centrally collect, store, and analyze logs from different systems for monitoring and security learning.|
 
 
